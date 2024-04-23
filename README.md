@@ -1,5 +1,5 @@
 # [ICLR 2024] Structural Estimation of Partially Observed Linear Non-Gaussian Models: A Practical Approach with Identifiability
-***
+
 This is the official implementation of the paper [Structural Estimation of Partially Observed Linear Non-Gaussian Models: A Practical Approach with Identifiability](https://openreview.net/forum?id=nHkMm0ywWm), ICLR 2024.
 
 ### Overview
