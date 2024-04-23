@@ -1,6 +1,6 @@
 # [ICLR 2024] Structural Estimation of Partially Observed Linear Non-Gaussian Models: A Practical Approach with Identifiability
 
-This is the official implementation of the paper "[Structural Estimation of Partially Observed Linear Non-Gaussian Models: A Practical Approach with Identifiability]"(https://openreview.net/forum?id=nHkMm0ywWm), ICLR 2024.
+This is the official implementation of the paper "[Structural Estimation of Partially Observed Linear Non-Gaussian Models: A Practical Approach with Identifiability](https://openreview.net/forum?id=nHkMm0ywWm)", ICLR 2024.
 
 ### Overview
 This project estimates the causal structure of the partial observed linear non-Gaussian acyclic model. The latent variable may be anywhere in the causal graph.
